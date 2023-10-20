@@ -1,6 +1,6 @@
 # Mijn eerste webpagina
 
-Speel live met deze code in **CodeSandbox** > [Klik hier!](https://codesandbox.io/s/github/CMD-Groningen/mijn-eerste-webpagina)
+Speel live met deze code in **CodeSandbox** > [Klik hier!](https://codesandbox.io/s/github/CMD-Groningen/mijn-eerste-webpagina) 
 
 Bestanden downloaden naar je laptop? [Klik hier](https://github.com/CMD-Groningen/mijn-eerste-webpagina/archive/refs/heads/master.zip)
 
