@@ -1,4 +1,4 @@
-inspringen# HTML Checklist
+# HTML Checklist
 
 ## Bestanden
 Zorg ervoor dat je HTML pagina index.html heet en geen andere naam! Plaats alle afbeeldingen netjes in een folder en noem die folder images! Zorg dat je maar één CSS bestand hebt! Alle CSS code gaat in dit CSS bestand en alle HTML code gaat in je HTML pagina.
