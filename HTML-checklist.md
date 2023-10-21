@@ -11,7 +11,7 @@ Plaats je content in het midden van je HTML pagina in een HTML element, b.v. mai
 #### In je HTML pagina:
 ```HTML
 <main>
-Hier de content van je pagina
+Hier de content van je pagina die je in het midden wilt
 </main>
 ```
 #### In je CSS bestand:
