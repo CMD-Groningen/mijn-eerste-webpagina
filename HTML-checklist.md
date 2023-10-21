@@ -36,4 +36,4 @@ Gebruik de **W3C Validator plug-in** voor HTML en de **CSSTree validator** voor 
 Zorg dat je code er niet als onleesbare gatenkaas uitziet: Gebruik de **Prettier** extensie om je code te formateren door in je VS Code settings Prettier als standaard formateerder in te stellen en Format On Save aan te zetten! Zie Tips & Trucks PDF over VS Code op Blackboard.
   
 ## Terminologie
-Benoem de HTML elementen en HTML attributen die je gebruikt hebt. Waarom heb je welke CSS selectors gebruikt? Welke CSS properties zorgen voor de lay-out, kleur en typografie? (b.v. ik heb dit... gedaan omdat ik dat... effect wilde bereiken in mijn design)
+Gebruik ook de benamingen die we tijdens de lessen gebruikt hebben en die in de powerpoints staan. HTML elementen, HTML attributen, wat is het verschil bijvoorbeeld tussen een CSS selector en een CSS property? Kun je aanwijzen welke CSS properties verantwoordelijk zijn voor de lay-out, kleur en typografie? (b.v. ik heb dit... gedaan omdat ik dat... effect wilde bereiken in mijn design)
